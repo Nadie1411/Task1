@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "125944911125",
+    "firebase_url": "https://green-minds-f15f5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "green-minds-f15f5",
+    "storage_bucket": "green-minds-f15f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125944911125:android:0d3cfe152742d10008851c",
+        "android_client_info": {
+          "package_name": "com.example.green_minds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rjGglgmOm4rjgEnAWOVXyUgcA2yM2XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125944911125:android:8b37281cc5b0897608851c",
+        "android_client_info": {
+          "package_name": "com.example.green_minds2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rjGglgmOm4rjgEnAWOVXyUgcA2yM2XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125944911125:android:7376102a9000c68308851c",
+        "android_client_info": {
+          "package_name": "com.example.task1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rjGglgmOm4rjgEnAWOVXyUgcA2yM2XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
